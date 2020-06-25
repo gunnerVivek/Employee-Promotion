@@ -1,4 +1,4 @@
-# Employee-Promotion
+# <center>Employee-Promotion</center>
 
 ## Problem Statement
 
